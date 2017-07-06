@@ -16,3 +16,7 @@ export function getCustomer(id) {
 export function updateCustomer(id, obj) {
     return axios.patch(apiURL+id, obj).then( response => response.data )
 }
+
+export function deleteCustomer(id) {
+    return axios.delete(apiURL+id).then( response => response.data )
+}

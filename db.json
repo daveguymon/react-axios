@@ -26,15 +26,6 @@
       "status": "New Customer",
       "log": "",
       "id": 3
-    },
-    {
-      "first": "Dave",
-      "last": "Guymon",
-      "email": "dave@me.com",
-      "phone": "1234567",
-      "status": "New Customer",
-      "log": "",
-      "id": 4
     }
   ]
 }
