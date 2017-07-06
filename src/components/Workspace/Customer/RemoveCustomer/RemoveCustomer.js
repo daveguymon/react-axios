@@ -9,7 +9,7 @@ export default class RemoveCustomer extends Component {
     };
 
     this.toggle = this.toggle.bind( this );
-    this.remove = this.remove.bind( this );
+//    this.remove = this.remove.bind( this );
   }
 
   toggle() {
